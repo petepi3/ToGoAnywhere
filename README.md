@@ -23,8 +23,7 @@ UI currently exists as a prototype for debugging, utilizing UGUI. When gameplay 
 
 Core game loop is planned to focus on gathering resources and building a road to the other side of a locked area of the map, while building and managing small colonies as well as transporting the resources between them.
 
-![Procedural Terrain](https://i.ibb.co/MnVG7xD/Mountains.png)
-![Animated Trees](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![Animated Water](https://raw.githubusercontent.com/petepi3/ToGoAnywhere/main/Water.gif)
-![Procedural Terrain](https://github.com/petepi3/ToGoAnywhere/blob/main/Trees.gif?raw=true)
-![Procedural Terrain](https://i.ibb.co/nsWh2G4/Village.png)
+![Procedural Terrain](https://i.ibb.co/MnVG7xD/Mountains.png) 
+![Animated Water](https://raw.githubusercontent.com/petepi3/ToGoAnywhere/main/Water.gif) 
+![Procedural Terrain](https://github.com/petepi3/ToGoAnywhere/blob/main/Trees.gif?raw=true) 
+![Procedural Terrain](https://i.ibb.co/nsWh2G4/Village.png) 
