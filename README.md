@@ -7,7 +7,7 @@ Personal unity project with infinite procedural generation and instanced renderi
 ## Procedural Generation
 - Terrain can be generated infinitely in all directions
 - It generates on the fly in camera view on separate threads, allowing for smooth generation with no hitching
-- Generation is efficient enough to allow for fast camera panning without ever seeing ungenerated chunks, even on low-end systems
+- Generation is efficient enough to allow for fast camera panning without ever seeing ungenerated chunks even on low-end systems
 - Procedural generation parameters are fully customizable in the editor
 - Biomes are supported as sub-generators, which can be nested, allowing for local biomes
 - Additionally, A* pathfinding is implemented, which supports finding road paths which are optimized for minimal height differences, as well as generating flowing rivers in the future.
