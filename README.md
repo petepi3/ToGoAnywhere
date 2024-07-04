@@ -18,7 +18,7 @@ Personal unity project with infinite procedural generation and instanced renderi
 - Both tiles and resources can be animated in shader
 
 ## Gameplay
-In the current state, this gameplay is sparsely implemented, only allowing player to build roads and place basic buildings.
+In the current state, gameplay only has a basic implementation, only allowing player to build roads and place basic buildings.
 UI currently exists as a prototype for debugging, utilizing UGUI. When gameplay features and general direction are more established, I plan to move the UI to UIToolkit to utilize data binding and better scalability.
 
 Core game loop is planned to focus on gathering resources and building a road to the other side of a locked area of the map, while building and managing small colonies as well as transporting the resources between them.
