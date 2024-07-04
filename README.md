@@ -17,13 +17,14 @@ Personal unity project with infinite procedural generation and instanced renderi
 - All tiles and resources are rendered as instanced meshes, passed to the GPU as chunks
 - Both tiles and resources can be animated in shader
 
-Gameplay is planned to focus on gathering resources and building a road to the other side of a locked area of the map, while building and managing small colonies as well as transporting the resources between them.
-
+## Gameplay
 In the current state, this gameplay is sparsely implemented, only allowing player to build roads and place basic buildings.
 UI currently exists as a prototype for debugging, utilizing UGUI. When gameplay features and general direction are more established, I plan to move the UI to UIToolkit to utilize data binding and better scalability.
 
+Core game loop is planned to focus on gathering resources and building a road to the other side of a locked area of the map, while building and managing small colonies as well as transporting the resources between them.
+
 ![Procedural Terrain](https://i.ibb.co/MnVG7xD/Mountains.png)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![Procedural Terrain](https://raw.githubusercontent.com/petepi3/ToGoAnywhere/main/Water.gif)
+![Animated Trees](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Animated Water](https://raw.githubusercontent.com/petepi3/ToGoAnywhere/main/Water.gif)
 ![Procedural Terrain](https://github.com/petepi3/ToGoAnywhere/blob/main/Trees.gif?raw=true)
 ![Procedural Terrain](https://i.ibb.co/nsWh2G4/Village.png)
