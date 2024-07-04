@@ -23,6 +23,7 @@ In the current state, this gameplay is sparsely implemented, only allowing playe
 UI currently exists as a prototype for debugging, utilizing UGUI. When gameplay features and general direction are more established, I plan to move the UI to UIToolkit to utilize data binding and better scalability.
 
 ![Procedural Terrain](https://i.ibb.co/MnVG7xD/Mountains.png)
-![Procedural Terrain]()
-![Procedural Terrain](https://s12.gifyu.com/images/StSwA.gif)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Procedural Terrain](https://raw.githubusercontent.com/petepi3/ToGoAnywhere/main/Water.gif)
+![Procedural Terrain](https://github.com/petepi3/ToGoAnywhere/blob/main/Trees.gif?raw=true)
 ![Procedural Terrain](https://i.ibb.co/nsWh2G4/Village.png)
